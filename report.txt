@@ -1,0 +1,160 @@
+=====LAPORAN STATISTIK FILE SISTEM=====
+tanggal: Mon Nov 10 03:44:22 AM WITA 2025
+ 
+Jumlah file dan Direktori : 
+17
+ 
+Ukuran setiap folder: 
+16K	05301425080
+24K	Archives
+4.0K	Desktop
+24K	Documents
+31M	Downloads
+4.0K	Images
+4.0K	Logs
+4.0K	Music
+728K	Pictures
+4.0K	Public
+4.0K	Ramdan
+4.0K	Templates
+4.0K	Videos
+4.0K	report .txt
+4.0K	report.txt
+123M	snap
+216K	tugas
+  
+Daftar file setiap folder: 
+.:
+05301425080
+Archives
+Desktop
+Documents
+Downloads
+Images
+Logs
+Music
+Pictures
+Public
+Ramdan
+report .txt
+report.txt
+snap
+Templates
+tugas
+Videos
+
+./05301425080:
+errornim.log
+ramdan_05301425080.csv
+tes
+tes.txt
+
+./Archives:
+arsip1.zip
+arsip2.7z
+arsip2.gzip
+arsip2.rar
+arsip2.tar
+
+./Desktop:
+
+./Documents:
+dokumen1.doc
+dokumen2.pdf
+dokumen3.txt
+dokumen4.csv
+dokumen5.odt
+
+./Downloads:
+fototes.jpeg
+fungsi_pencarian.sh
+node-v24.11.0-linux-x64.tar.xz
+
+./Images:
+img_1.jpeg
+img_2.png
+img_3.jpg
+img_4.gif
+img_5.svg
+
+./Logs:
+access.log
+app.log
+error.log
+server.log
+system.log
+
+./Music:
+
+./Pictures:
+Screenshots
+
+./Pictures/Screenshots:
+Screenshot from 2025-10-25 14-35-44.png
+Screenshot from 2025-10-25 14-38-20.png
+
+./Public:
+
+./Ramdan:
+
+./snap:
+firefox
+firmware-updater
+snapd-desktop-integration
+tree
+
+./snap/firefox:
+7177
+common
+current
+
+./snap/firefox/7177:
+
+./snap/firefox/common:
+
+./snap/firmware-updater:
+167
+210
+common
+current
+
+./snap/firmware-updater/167:
+
+./snap/firmware-updater/210:
+
+./snap/firmware-updater/common:
+
+./snap/snapd-desktop-integration:
+315
+common
+current
+
+./snap/snapd-desktop-integration/315:
+
+./snap/snapd-desktop-integration/common:
+
+./snap/tree:
+54
+common
+current
+
+./snap/tree/54:
+
+./snap/tree/common:
+
+./Templates:
+
+./tugas:
+Project-Based-Learning-Perintah-Dasar-Linux
+
+./tugas/Project-Based-Learning-Perintah-Dasar-Linux:
+project_1.sh
+README.md
+report .txt
+
+./Videos:
+ 
+Total ukuran seluruh file:
+185M	total
+ 
+==========Laporan Selesai==========
