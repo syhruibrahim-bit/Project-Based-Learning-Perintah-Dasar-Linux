@@ -1,7 +1,7 @@
 #=========================================
 #Nama   : Syahru Ramadhan Ibrahim
 #Prodi  : Sistem Informasi / Kelas D
-#Deskripsi: Script ini membuat struktur proyek sederhana beserta beberapa file awal.
+#Script ini membuat struktur proyek sederhana beserta beberapa file awal.
 #=========================================
 
 # 1. Berpindah ke direktori home pengguna (~) dan membuat direktori proyek utama
