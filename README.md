@@ -1,9 +1,8 @@
-==============================================
-Nama   : Syahru Ramadhan Ibrahim
-NIM    : 05301425080
-Prodi  : Sistem Informasi — Kelas D
-==============================================
-
+====================================
+Nama: Syahru Ramadhan Ibrahim
+NIM: 05301425080
+Prodi: Sistem Informasi — Kelas D
+====================================
 
 DAFTAR ISI
 1. Latihan 1 – Skrip Manajemen File
@@ -21,21 +20,12 @@ LATIHAN 1 – SKRIP MANAJEMEN FILE
 Latihan pertama berisi empat skrip yang berfungsi untuk membuat,
 mengorganisasi, mencari, dan melaporkan file di sistem Linux.
 
-BuatStrukturDirektori.sh
+1. Buat Struktur Direktori
 
 Fungsi:
 Membuat struktur dasar direktori dan file sampel:
 - Folder: documents, images, archives, logs
 - File contoh: .doc, .zip, .png, .log
-
-Syntax :
-mkdir documents images archives logs
-for i in {1..5}; do
-    echo "ini file documen ke-$i" > documen$i.doc
-    echo "ini file arsip ke-$i" > arsip$i.zip
-    touch gambar$i.png
-    touch filelogs$i.log
-done
 
 Cara menjalankan:
 ./BuatStrukturDirektori.sh
@@ -46,41 +36,29 @@ images/
 archives/
 logs/
 
-
-ScriptOrganisasiFile.sh
+2. Script Organisasi File
 
 Fungsi:
 Mengelompokkan file berdasarkan ekstensi dan memindahkannya
 ke folder yang sesuai menggunakan perintah find, mv, dan cp.
 
-Syntax :
-find -type f -name "*.doc" -not -path "./documents/*" -exec mv {} documents/ \;
-find -type f -name "*.zip" -not -path "./archives/*" -exec mv {} archives/ \;
-find -type f -name "*.png" -not -path "./images/*" -exec cp {} images/ \;
-find -type f -name "*.log" -not -path "./logs/*" -exec mv {} logs/ \;
-
 Cara menjalankan:
 ./ScriptOrganisasiFile.sh
 
 File akan otomatis tersusun:
-  .doc -> documents/
-  .zip -> archives/
-  .png -> disalin ke images/
-  .log -> logs/
+.doc -> documents/
+.zip -> archives/
+.png -> disalin ke images/
+.log -> logs/
 
 
-FungsiPencarian.sh
+3. Fungsi Pencarian
 
 Fungsi:
 Menambahkan fitur pencarian interaktif berdasarkan:
 - Nama file
 - Ukuran file
 - Konten teks di dalam file
-
-Syntax:
-nama() { read -p "Nama File: " nama; find . -type f -name "*$nama*"; }
-ukuran() { read -p "Ukuran File(+1M/-1M): " ukuran; find . -type f -size "$ukuran"; }
-konten() { read -p "Konten File: " konten; grep -rl "$konten" .; }
 
 Cara menjalankan:
 ./FungsiPencarian.sh
@@ -93,17 +71,10 @@ Menu interaktif:
 4. Keluar
 
 
-reportsyntax.sh
+4. Membuat Laporan statistik
 
 Fungsi:
 Menghasilkan laporan statistik file sistem ke dalam file report.txt.
-
-Syntax:
-echo "=====LAPORAN STATISTIK FILE SISTEM=====" > report.txt
-echo "tanggal: $(date)" >> report.txt
-ls | wc -l >> report.txt
-du -sh * >> report.txt
-du -ch | grep total >> report.txt
 
 Cara menjalankan:
 ./reportsyntax.sh
@@ -119,31 +90,24 @@ File report.txt akan berisi:
 LATIHAN 2 – SKRIP STRUKTUR PROYEK
 Latihan kedua berfokus pada pembuatan struktur proyek di direktori home pengguna.
 
-struktur_proyek.sh
+1. Struktur Direktori Proyek
 
 Fungsi:
 Membuat struktur proyek baru bernama Project_sistem_operasi_B
 dengan subdirektori src, doc, dan data.
 
-Syntax:
-cd ~
-mkdir Project_sistem_operasi_B
-cd Project_sistem_operasi_B
-mkdir src doc data
-touch README.sh src/main.sh
-ls -R
-du -sh ~/Project_sistem_operasi_B
-
 Cara menjalankan:
 ./struktur_proyek.sh
 
 Struktur yang dihasilkan:
+
 Project_sistem_operasi_B/
-    data/
-    doc/
-    src/
-     └── main.sh
-    README.sh
+
+data/
+doc/
+src/
+└── main.sh
+README.sh
 
 
 PERSYARATAN SISTEM
@@ -159,4 +123,3 @@ Bebas digunakan untuk pembelajaran, eksperimen, dan pengembangan skrip otomatisa
 
 Catatan:
 Pastikan Anda memiliki izin tulis di direktori kerja sebelum menjalankan setiap skrip.
-Jika ada hal ingin di tanyakan 
