@@ -8,5 +8,5 @@ Latihan 2 — Struktur proyek
 
 4. Tampilkan ukuran project_os dalam format yang mudah dibaca
 
-
-Hasil pengerjaannya ada di file **struktur_proyek.sh**
+cat:
+Hasil pengerjaannya ada di file struktur_proyek.sh
