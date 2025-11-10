@@ -1,8 +1,8 @@
-Nama: Syahru Ramadhan Ibrahim
+Nama     : Syahru Ramadhan Ibrahim
 --------------------------------------
-NIM: 05301425080 
+NIM      : 05301425080 
 --------------------------------------
-Prodi: Sistem Informasi — Kelas D
+Prodi    : Sistem Informasi — Kelas D
 --------------------------------------
 
 DAFTAR ISI
