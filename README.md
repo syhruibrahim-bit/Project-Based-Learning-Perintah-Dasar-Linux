@@ -1,8 +1,8 @@
-Nama     : Syahru Ramadhan Ibrahim
+**Nama     : Syahru Ramadhan Ibrahim**
 --------------------------------------
-NIM      : 05301425080 
+**NIM      : 05301425080** 
 --------------------------------------
-Prodi    : Sistem Informasi — Kelas D
+**Prodi    : Sistem Informasi — Kelas D**
 --------------------------------------
 
 DAFTAR ISI
@@ -17,13 +17,13 @@ DAFTAR ISI
 4. Lisensi
  
 
-LATIHAN 1 – SKRIP MANAJEMEN FILE
+**LATIHAN 1 – SKRIP MANAJEMEN FILE**
 ======================================
 Latihan pertama berisi empat skrip yang berfungsi untuk membuat,
 mengorganisasi, mencari, dan melaporkan file di sistem Linux.
 
 
-1. Buat Struktur Direktori
+**1. Buat Struktur Direktori**
 -------------------------------------
 Fungsi:
 Membuat struktur dasar direktori dan file sampel:
@@ -39,7 +39,7 @@ images/
 archives/
 logs/
 
-2. Script Organisasi File
+**2. Script Organisasi File**
 -------------------------------------
 Fungsi:
 Mengelompokkan file berdasarkan ekstensi dan memindahkannya
@@ -55,7 +55,7 @@ File akan otomatis tersusun:
 .log -> logs/
 
 
-3. Fungsi Pencarian
+**3. Fungsi Pencarian**
 -------------------------------------
 Fungsi:
 Menambahkan fitur pencarian interaktif berdasarkan:
@@ -74,7 +74,7 @@ Pencarian File
 4. Keluar
 
 
-4. Membuat Laporan statistik
+**4. Membuat Laporan statistik**
 -------------------------------------
 Fungsi:
 Menghasilkan laporan statistik file sistem ke dalam file report.txt.
@@ -89,11 +89,11 @@ File report.txt akan berisi:
   - Total ukuran keseluruhan
 
 
-LATIHAN 2 – SKRIP STRUKTUR PROYEK
+**LATIHAN 2 – SKRIP STRUKTUR PROYEK**
 =====================================
 Latihan kedua berfokus pada pembuatan struktur proyek di direktori home pengguna.
 
-1. Struktur Direktori Proyek
+**1. Struktur Direktori Proyek**
 -------------------------------------
 Fungsi:
 Membuat struktur proyek baru bernama Project_sistem_operasi_B
@@ -112,14 +112,14 @@ src/
 └── main.sh
 README.sh
 
-PERSYARATAN SISTEM
+**PERSYARATAN SISTEM**
 =====================================
 - Sistem operasi: Linux / macOS
 - Shell: Bash
 - Perintah yang digunakan: mkdir, find, grep, du, ls, wc, cp, mv, echo, touch
 
 
-LISENSI
+**TUJUAN**
 =====================================
 Proyek ini dibuat untuk keperluan Praktikum Sistem Operasi.
 Bebas digunakan untuk pembelajaran, eksperimen, dan pengembangan skrip otomatisasi file.
