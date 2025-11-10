@@ -1,15 +1,16 @@
-**Latihan 2 — Struktur proyek
+**Latihan 2 — Struktur proyek**
 ====================================
 
-1. Buat direktori project_Sistem Operasi B di home.
+**1. Buat direktori project_Sistem Operasi B di home.**
 -----------------------------------------------------
 
-2. Di dalamnya buat src/, doc/, data/.
+**2. Di dalamnya buat src/, doc/, data/.**
 -----------------------------------------
-3. Buat file kosong README.md dan src/main.sh.
+**3. Buat file kosong README.md dan src/main.sh.**
 --------------------------------------------------
-4. Tampilkan ukuran project_os dalam format yang mudah dibaca
+**4. Tampilkan ukuran project_os dalam format yang mudah dibaca**
 --------------------------------------------------
-cat:
-Hasil pengerjaannya ada di file struktur_proyek.sh
---------------------------------------------------**
+**cat:**
+**Hasil pengerjaannya ada di file struktur_proyek.sh**
+--------------------------------------------------
+
