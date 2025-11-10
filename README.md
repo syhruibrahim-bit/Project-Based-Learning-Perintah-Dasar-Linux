@@ -67,7 +67,7 @@ Cara menjalankan:
 ./FungsiPencarian.sh
 
 Menu interaktif:
-===Pencarian File===
+Pencarian File
 1. Cari Nama
 2. Cari Ukuran
 3. Cari Konten
@@ -116,8 +116,7 @@ PERSYARATAN SISTEM
 =====================================
 - Sistem operasi: Linux / macOS
 - Shell: Bash
-- Perintah yang digunakan:
-  mkdir, find, grep, du, ls, wc, cp, mv, echo, touch
+- Perintah yang digunakan: mkdir, find, grep, du, ls, wc, cp, mv, echo, touch
 
 
 LISENSI
