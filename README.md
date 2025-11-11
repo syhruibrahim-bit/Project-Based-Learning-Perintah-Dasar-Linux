@@ -6,18 +6,18 @@
 --------------------------------------
 
 DAFTAR ISI
-1. Latihan 1 – Skrip Manajemen File
+1. Project 1 – Skrip Manajemen File
    - BuatStrukturDirektori.sh
    - ScriptOrganisasiFile.sh
    - FungsiPencarian.sh
    - reportsyntax.sh
-2. Latihan 2 – Skrip Struktur Proyek
+2. Prject 2 – Skrip Struktur Proyek
    - struktur_proyek.sh
 3. Persyaratan Sistem
 4. Lisensi
  
 
-**LATIHAN 1 – SKRIP MANAJEMEN FILE**
+**PROJECT 1 – SKRIP MANAJEMEN FILE**
 ======================================
 Latihan pertama berisi empat skrip yang berfungsi untuk membuat,
 mengorganisasi, mencari, dan melaporkan file di sistem Linux.
@@ -89,7 +89,7 @@ File report.txt akan berisi:
   - Total ukuran keseluruhan
 
 
-**LATIHAN 2 – SKRIP STRUKTUR PROYEK**
+**PROJECT 2 – SKRIP STRUKTUR PROYEK**
 =====================================
 Latihan kedua berfokus pada pembuatan struktur proyek di direktori home pengguna.
 
