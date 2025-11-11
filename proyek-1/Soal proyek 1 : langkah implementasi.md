@@ -20,7 +20,6 @@ Implementasikan pencarian file menggunakan find dan grep. Buat fungsi untuk menc
 **Hasil Pengerjaan --> FungsiPencarian.sh**
 
 **4. Generate Laporan**
-
 --------------------------------------------------
 Gunakan ls, wc, du, dan piping untuk membuat laporan statistik file sistem. Output ke file report.tx
 
