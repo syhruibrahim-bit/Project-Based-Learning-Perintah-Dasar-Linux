@@ -6,15 +6,26 @@
 --------------------------------------
 
 DAFTAR ISI
-1. Project 1 – Skrip Manajemen File
-   - BuatStrukturDirektori.sh
-   - ScriptOrganisasiFile.sh
-   - FungsiPencarian.sh
-   - reportsyntax.sh
-2. Prject 2 – Skrip Struktur Proyek
-   - struktur_proyek.sh
-3. Persyaratan Sistem
-4. Lisensi
+1. Project 1
+   - Soal project 1
+   - prokect
+   - report.txt
+2. Prject 2
+   - Soal Project 2
+3. Partbypart
+    part project 1
+      - BuatStrukturDirektori.sh
+      - ScriptOrganisasiFile.sh
+      - FungsiPencarian.sh
+      - reportsyntax.sh
+    part project 2
+      - DirectoriProject.sh
+      - Subdirektori.sh
+      - sampelfile.sh
+      - strukturdirektori.sh
+      
+5. Persyaratan Sistem
+6. Lisensi
  
 
 **PROJECT 1 – SKRIP MANAJEMEN FILE**
