@@ -13,12 +13,12 @@ DAFTAR ISI
 2. Prject 2
    - Soal Project 2
 3. Partbypart
-part project 1
+- part project 1
       - BuatStrukturDirektori.sh
       - ScriptOrganisasiFile.sh
       - FungsiPencarian.sh
       - reportsyntax.sh
-part project 2
+- part project 2
       - DirectoriProject.sh
       - Subdirektori.sh
       - sampelfile.sh
