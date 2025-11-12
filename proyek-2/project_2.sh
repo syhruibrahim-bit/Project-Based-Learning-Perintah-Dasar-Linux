@@ -17,6 +17,6 @@ touch README.sh src/main.sh
 
 # 4. Menampilkan struktur direktori dan ukuran total proyek
 echo "===Struktur Direktori==="
-ls -R                                         # Menampilkan semua isi folder dan subfolder
+tree                                          # Menampilkan semua isi folder dan subfolder
 echo "===Ukuran Direktori==="
 du -sh ~/Project_sistem_operasi_D             # Menampilkan ukuran total direktori proyek
