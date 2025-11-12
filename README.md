@@ -8,10 +8,11 @@
 DAFTAR ISI
 1. Project 1
    - Soal project 1
-   - prokect
+   - project1.sh
    - report.txt
 2. Prject 2
    - Soal Project 2
+   - project2.sh
 3. Partbypart
    - part project 1
       - BuatStrukturDirektori.sh
@@ -24,8 +25,8 @@ DAFTAR ISI
       - sampelfile.sh
       - strukturdirektori.sh
       
-5. Persyaratan Sistem
-6. Lisensi
+4. Persyaratan Sistem
+5. Lisensi
  
 
 **PROJECT 1 – SKRIP MANAJEMEN FILE**
@@ -107,7 +108,7 @@ Latihan kedua berfokus pada pembuatan struktur proyek di direktori home pengguna
 **1. Struktur Direktori Proyek**
 -------------------------------------
 Fungsi:
-Membuat struktur proyek baru bernama Project_sistem_operasi_B
+Membuat struktur proyek baru bernama Project_sistem_operasi_D
 dengan subdirektori src, doc, dan data.
 
 Cara menjalankan:
@@ -115,7 +116,7 @@ Cara menjalankan:
 
 Struktur yang dihasilkan:
 
-Project_sistem_operasi_B/
+Project_sistem_operasi_D/
 
 data/
 doc/
